@@ -1,0 +1,18 @@
+h1{
+    font-size: 40px;
+    color: red;    
+}
+
+h2  {
+    font-size: 24px;
+}
+.little-pic{
+    width: 200px
+    height 200px
+    object-fit cover;
+}
+
+#avatar {
+    border-radius: 50%;
+    box-shadow: 10px 20px 20px lightskyblue;
+}
